@@ -6,20 +6,16 @@ Each file in this folder contains a proof in the SLATE format. The numbering sch
 
 ## References
 
-[1] Woodger, J. H. "The axiomatic method in biology." Cambridge, England (1937).
-[2] <http://rair.cogsci.rpi.edu/projects/slate/>.
-[3] <http://www.ai.sri.com/~stickel/snark.html>.
+1. Woodger, J. H. "The axiomatic method in biology." Cambridge, England (1937).
+2. <http://rair.cogsci.rpi.edu/projects/slate/>.
+3. <http://www.ai.sri.com/~stickel/snark.html>.
 
 ## Contact
 
 Atriya Sen
-
 Graduate Student
-
 Rensselaer Artificial Intelligence and Reasoning Laboratory
-
 Troy, NY
-
 USA
 
 <sena2@rpi.edu>
