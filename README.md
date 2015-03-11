@@ -12,6 +12,4 @@ Each file in this folder contains a proof in the SLATE format. The numbering sch
 
 ## Contact
 
-Atriya Sen
-
-<sena2@rpi.edu>
+Atriya Sen (<sena2@rpi.edu>)
