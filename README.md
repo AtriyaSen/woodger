@@ -12,10 +12,10 @@ Each file in this folder contains a proof in the SLATE format. The numbering sch
 
 ## Contact
 
-Atriya Sen
-Graduate Student
-Rensselaer Artificial Intelligence and Reasoning Laboratory
-Troy, NY
-USA
+> Atriya Sen
+> Graduate Student
+> Rensselaer Artificial Intelligence and Reasoning Laboratory
+> Troy, NY
+> USA
 
 <sena2@rpi.edu>
